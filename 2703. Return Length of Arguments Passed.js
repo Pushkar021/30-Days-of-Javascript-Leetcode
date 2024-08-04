@@ -1,7 +1,7 @@
 
-const argumentsLength = ()=>{
-    return arguments.length
-}
+// const argumentsLength = ()=>{
+//     return arguments.length
+// }
  //// second method 
  
 const argumentsLength = (...args) => {
